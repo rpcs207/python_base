@@ -2,6 +2,8 @@
 
 No terminal execute python -m venv .venv *nome tradicional*
 
+iniciando o terminal virtual>>> localizar o ambiente virtual e depois Scrips\activate.bat
+
 # Instalando ferramentas para o ambiente virtual no python
 
 python -m pip install --upgrade pip
